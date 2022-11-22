@@ -1,6 +1,6 @@
 # NopCommerce_Cypress
 
-1.What is cypress? 
+**1.What is cypress?**
 Cypress is a test automation tool that works on Javascript and is used to automate unit, integration and end to end tests. It can also be used to automate API tests. It has inbuilt waits and features for Screenshot capturing and video recording.
 
 2. Difference b/w npm and npx: 
