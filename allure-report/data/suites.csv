@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 22 18:11:28 IST 2022","Tue Nov 22 18:11:31 IST 2022","2945","","","","","user is logging out","user is logging out",""
+"passed","Tue Nov 22 18:08:20 IST 2022","Tue Nov 22 18:08:41 IST 2022","20685","","","","","Adding new disount","Adding new disount",""
+"passed","Tue Nov 22 18:11:12 IST 2022","Tue Nov 22 18:11:28 IST 2022","16233","","","","","user is logging in","user is logging in",""
